@@ -1,0 +1,11 @@
+Cypress
+
+# npm init -y   // criar o projeto
+
+# npm install cypress     // Instalar o pacote com @ é para especificar a versão.
+
+
+./node_modules/.bin/cypress open  // executar o cypress 
+ou
+
+npm run cypress:open
